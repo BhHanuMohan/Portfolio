@@ -1,6 +1,7 @@
 ## Bh G Hanu Mohan
 
 PROJECTS
+
 • Project 1 (Major Project)
 Title: rotating propeller clock
 Description: a strip of led rotating at high-speed displaying a screen.
